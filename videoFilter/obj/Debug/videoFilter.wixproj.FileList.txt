@@ -1,0 +1,7 @@
+C:\Users\joar_\OneDrive\Documents\Visual Studio 2017\Projects\videoProcessing\videoFilter\bin\Debug\cab1.cab
+C:\Users\joar_\OneDrive\Documents\Visual Studio 2017\Projects\videoProcessing\videoFilter\bin\Debug\videoFilter.msi
+C:\Users\joar_\OneDrive\Documents\Visual Studio 2017\Projects\videoProcessing\videoFilter\bin\Debug\videoFilter.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\videoFilter.wixproj.BindContentsFileListnull.txt
+obj\Debug\videoFilter.wixproj.BindOutputsFileListnull.txt
+obj\Debug\videoFilter.wixproj.BindBuiltOutputsFileListnull.txt

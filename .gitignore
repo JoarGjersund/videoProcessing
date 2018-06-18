@@ -47,5 +47,6 @@ Temporary Items
 .apdisk
 
 #visual studio compiled files
-*/x64
+x64
 .vs
+videoProcessing/x64
